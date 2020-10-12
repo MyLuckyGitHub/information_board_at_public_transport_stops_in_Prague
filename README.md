@@ -6,4 +6,4 @@ All data is obtained (or will be obtained) from official sources, such as the Mi
 
 This is a long-term project that will be updated regularly.
 
-![alt text](/Screenshots.png "alt")
+![alt text](/Screenshot.png "Screenshot")
