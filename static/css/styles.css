@@ -1,0 +1,9 @@
+@font-face {
+font-family: Pixel;
+  src: url("../fonts/Pixel-UniCode.ttf");
+}
+
+body{color:darkgray;font-family: Pixel; font-size: 70px; line-height: 0; background-color: black}
+h2{color:darkgray;}
+h3{color:darkgray;}
+table{font-size: 70px;}
